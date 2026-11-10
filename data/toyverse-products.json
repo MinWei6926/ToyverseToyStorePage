@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "store": "Toyverse",
+  "currency": "VND",
+  "generatedFor": "Payload Products and Media",
+  "audience": "Thanh thiếu niên và người sưu tầm",
+  "categories": ["Figure", "Thẻ bài", "Mô hình lắp ghép", "Xe"],
+  "media": [
+    {
+      "key": "fig-anime-hero",
+      "alt": "Mô hình Figure nhân vật Anime",
+      "filename": "fig-anime-hero.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "fig-superhero",
+      "alt": "Mô hình Siêu vĩ nhân hành động",
+      "filename": "fig-superhero.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "fig-chibi",
+      "alt": "Mô hình Chibi dễ thương",
+      "filename": "fig-chibi.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "fig-blindbox",
+      "alt": "Hộp mù Figure bí ẩn",
+      "filename": "fig-blindbox.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1558679908-541bcf1249ff?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "card-booster-pack",
+      "alt": "Gói thẻ bài niêm phong",
+      "filename": "card-booster-pack.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1613771404784-3a5686aa2be3?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "card-rare-holo",
+      "alt": "Thẻ bài hiếm lấp lánh",
+      "filename": "card-rare-holo.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1611931960487-4932667079f1?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "card-deck-box",
+      "alt": "Hộp đựng bộ thẻ bài cao cấp",
+      "filename": "card-deck-box.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1606168094336-48f205276929?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "model-mecha-robot",
+      "alt": "Mô hình Robot Mecha lắp ghép",
+      "filename": "model-mecha-robot.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1583437871198-367d5df85c8c?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "model-ship-wood",
+      "alt": "Mô hình thuyền buồm gỗ",
+      "filename": "model-ship-wood.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "model-architecture",
+      "alt": "Mô hình kiến trúc thu nhỏ",
+      "filename": "model-architecture.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1638802538115-041e14d28d6a?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "car-diecast-sports",
+      "alt": "Xe siêu xe kim loại Diecast",
+      "filename": "car-diecast-sports.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1560859251-d563a49c5e4a?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "key": "car-rc-offroad",
+      "alt": "Xe điều khiển từ xa địa hình",
+      "filename": "car-rc-offroad.jpg",
+      "externalURL": "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?auto=format&fit=crop&w=900&q=85"
+    }
+  ],
+  "products": [
+    {
+      "name": "Figure Nendoroid Anh Hùng Huyền Thoại",
+      "slug": "figure-nendoroid-anh-hung",
+      "brand": "GOOD SMILE",
+      "category": "Figure",
+      "price": 1250000,
+      "oldPrice": 1450000,
+      "sale": 14,
+      "rating": 4.9,
+      "featured": true,
+      "imageKey": "fig-chibi"
+    },
+    {
+      "name": "Figure Tỷ Lệ 1/7 Vũ Công Ánh Sáng",
+      "slug": "figure-ty-le-1-7-vu-cong",
+      "brand": "ALTER",
+      "category": "Figure",
+      "price": 3850000,
+      "oldPrice": 4200000,
+      "sale": 8,
+      "rating": 5,
+      "featured": true,
+      "imageKey": "fig-anime-hero"
+    },
+    {
+      "name": "Blindbox Hộp Mù Sinh Vật Thần Thoại",
+      "slug": "blindbox-sinh-vat-than-thoai",
+      "brand": "POP MART",
+      "category": "Figure",
+      "price": 280000,
+      "rating": 4.7,
+      "featured": false,
+      "oldPrice": null,
+      "sale": null,
+      "imageKey": "fig-blindbox"
+    },
+    {
+      "name": "Figure Action Iron Hero Mark 85",
+      "slug": "figure-action-iron-hero-mark-85",
+      "brand": "SHFIGUARTS",
+      "category": "Figure",
+      "price": 2150000,
+      "oldPrice": 2500000,
+      "sale": 14,
+      "rating": 4.8,
+      "featured": true,
+      "imageKey": "fig-superhero"
+    },
+    {
+      "name": "Figure Statuette Rồng Thiêng Khổng Lồ 40cm",
+      "slug": "figure-statuette-rong-thieng-40cm",
+      "brand": "BANPRESTO",
+      "category": "Figure",
+      "price": 1890000,
+      "oldPrice": 2100000,
+      "sale": 10,
+      "rating": 4.9,
+      "featured": false,
+      "imageKey": "fig-anime-hero"
+    },
+    {
+      "name": "Figure Chibi Đội Trưởng Khiên Thép",
+      "slug": "figure-chibi-doi-truong-khien-thep",
+      "brand": "FUNKO POP",
+      "category": "Figure",
+      "price": 350000,
+      "oldPrice": 390000,
+      "sale": 10,
+      "rating": 4.6,
+      "featured": false,
+      "imageKey": "fig-chibi"
+    },
+    {
+      "name": "Figure Figma Chiến Sĩ Không Gian",
+      "slug": "figure-figma-chien-si-khong-gian",
+      "brand": "MAX FACTORY",
+      "category": "Figure",
+      "price": 1650000,
+      "rating": 4.8,
+      "featured": false,
+      "oldPrice": null,
+      "sale": null,
+      "imageKey": "fig-anime-hero"
+    },
+    {
+      "name": "Blindbox Quái Vật Tí Hon Series 2",
+      "slug": "blindbox-quai-vat-ti-hon-series-2",
+      "brand": "FINDING UNICORN",
+      "category": "Figure",
+      "price": 260000,
+      "oldPrice": 300000,
+      "sale": 13,
+      "rating": 4.7,
+      "featured": false,
+      "imageKey": "fig-blindbox"
+    },
+    {
+      "name": "Figure Scale 1/4 Nữ Vương Bóng Đêm",
+      "slug": "figure-scale-1-4-nu-vuong-bong-dem",
+      "brand": "FREEING",
+      "category": "Figure",
+      "price": 6900000,
+      "oldPrice": 7500000,
+      "sale": 8,
+      "rating": 5,
+      "featured": true,
+      "imageKey": "fig-anime-hero"
+    },
+    {
+      "name": "Bộ Thẻ Bài Khởi Đầu TC-01",
+      "slug": "bo-the-bai-khoi-dau-tc-01",
+      "brand": "TCG MASTER",
+      "category": "Thẻ bài",
+      "price": 320000,
+      "oldPrice": 400000,
+      "sale": 20,
+      "rating": 4.8,
+      "featured": true,
+      "imageKey": "card-booster-pack"
+    },
+    {
+      "name": "Gói Thẻ Mở Mở Rộng Huyền Thoại Rồng",
+      "slug": "goi-the-mo-rong-huyen-thoai-rong",
+      "brand": "TCG MASTER",
+      "category": "Thẻ bài",
+      "price": 110000,
+      "rating": 4.9,
+      "featured": false,
+      "oldPrice": null,
+      "sale": null,
+      "imageKey": "card-booster-pack"
+    },
+    {
+      "name": "Thẻ Bài Hiếm Holographic Rồng Lửa Ultimate",
+      "slug": "the-bai-hiem-holographic-rong-lua",
+      "brand": "COLLECTOR LAB",
+      "category": "Thẻ bài",
+      "price": 2500000,
+      "oldPrice": 3000000,
+      "sale": 16,
+      "rating": 5,
+      "featured": true,
+      "imageKey": "card-rare-holo"
+    },
+    {
+      "name": "Hộp Mở Rộng Booster Box 36 Gói Thẻ",
+      "slug": "hop-mo-rong-booster-box-36-goi",
+      "brand": "TCG MASTER",
+      "category": "Thẻ bài",
+      "price": 3290000,
+      "oldPrice": 3800000,
+      "sale": 13,
+      "rating": 4.9,
+      "featured": true,
+      "imageKey": "card-booster-pack"
+    },
+    {
+      "name": "Album Bọc Bảo Vệ Thẻ Bài 9 Ô",
+      "slug": "album-boc-bao-ve-the-bai-9-o",
+      "brand": "ULTRA PRO",
+      "category": "Thẻ bài",
+      "price": 450000,
+      "oldPrice": 500000,
+      "sale": 10,
+      "rating": 4.7,
+      "featured": false,
+      "imageKey": "card-deck-box"
+    },
+    {
+      "name": "Hộp Đựng Bộ Bài Bằng Da Cao Cấp",
+      "slug": "hop-dung-bo-bai-bang-da-cao-cap",
+      "brand": "ULTRA PRO",
+      "category": "Thẻ bài",
+      "price": 550000,
+      "rating": 4.8,
+      "featured": false,
+      "oldPrice": null,
+      "sale": null,
+      "imageKey": "card-deck-box"
+    },
+    {
+      "name": "Bộ Thẻ Bài Chiến Thuật Ma Thuật",
+      "slug": "bo-the-bai-chien-thuat-ma-thuat",
+      "brand": "KONAMI",
+      "category": "Thẻ bài",
+      "price": 420000,
+      "oldPrice": 490000,
+      "sale": 14,
+      "rating": 4.8,
+      "featured": false,
+      "imageKey": "card-booster-pack"
+    },
+    {
+      "name": "Thẻ Bài Chân Dung Vàng 24K Kỷ Niệm",
+      "slug": "the-bai-chan-dung-vang-24k-ky-niem",
+      "brand": "COLLECTOR LAB",
+      "category": "Thẻ bài",
+      "price": 5800000,
+      "oldPrice": 6500000,
+      "sale": 10,
+      "rating": 5,
+      "featured": true,
+      "imageKey": "card-rare-holo"
+    },
+    {
+      "name": "Bọc Bảo Vệ Thẻ Bài Matte Sleeves (100 cái)",
+      "slug": "boc-bao-ve-the-bai-matte-sleeves",
+      "brand": "DRAGON SHIELD",
+      "category": "Thẻ bài",
+      "price": 290000,
+      "rating": 4.9,
+      "featured": false,
+      "oldPrice": null,
+      "sale": null,
+      "imageKey": "card-deck-box"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Robot Mech RG 1/144",
+      "slug": "mo-hinh-lap-ghep-robot-mech-rg-1-144",
+      "brand": "BANDAI",
+      "category": "Mô hình lắp ghép",
+      "price": 890000,
+      "oldPrice": 1050000,
+      "sale": 15,
+      "rating": 4.9,
+      "featured": true,
+      "imageKey": "model-mecha-robot"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Robot MG 1/100 Ka",
+      "slug": "mo-hinh-lap-ghep-robot-mg-1-100-ka",
+      "brand": "BANDAI",
+      "category": "Mô hình lắp ghép",
+      "price": 1750000,
+      "oldPrice": 1990000,
+      "sale": 12,
+      "rating": 5,
+      "featured": true,
+      "imageKey": "model-mecha-robot"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Thuyền Buồm Gỗ Black Pearl",
+      "slug": "mo-hinh-lap-ghep-thuyen-buom-go",
+      "brand": "WOODEN CRAFT",
+      "category": "Mô hình lắp ghép",
+      "price": 1450000,
+      "oldPrice": 1800000,
+      "sale": 19,
+      "rating": 4.8,
+      "featured": true,
+      "imageKey": "model-ship-wood"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Kiến Trúc Lâu Đài 3D",
+      "slug": "mo-hinh-lap-ghep-kien-truc-lau-dai-3d",
+      "brand": "CUBICFUN",
+      "category": "Mô hình lắp ghép",
+      "price": 480000,
+      "oldPrice": 590000,
+      "sale": 18,
+      "rating": 4.7,
+      "featured": false,
+      "imageKey": "model-architecture"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Động Cơ V8 Kim Loại",
+      "slug": "mo-hinh-lap-ghep-dong-co-v8-kim-loai",
+      "brand": "TECHMODEL",
+      "category": "Mô hình lắp ghép",
+      "price": 2890000,
+      "oldPrice": 3300000,
+      "sale": 12,
+      "rating": 4.9,
+      "featured": true,
+      "imageKey": "model-mecha-robot"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Máy Bay Chiến Đấu F-22 1/48",
+      "slug": "mo-hinh-lap-ghep-may-bay-f22",
+      "brand": "TAMIYA",
+      "category": "Mô hình lắp ghép",
+      "price": 980000,
+      "rating": 4.8,
+      "featured": false,
+      "oldPrice": null,
+      "sale": null,
+      "imageKey": "model-mecha-robot"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Xe Tăng Tiger I 1/35",
+      "slug": "mo-hinh-lap-ghep-xe-tang-tiger-i",
+      "brand": "ACADEMY",
+      "category": "Mô hình lắp ghép",
+      "price": 720000,
+      "oldPrice": 850000,
+      "sale": 15,
+      "rating": 4.7,
+      "featured": false,
+      "imageKey": "model-mecha-robot"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Robot PG 1/60 Perfect Grade",
+      "slug": "mo-hinh-lap-ghep-robot-pg-1-60",
+      "brand": "BANDAI",
+      "category": "Mô hình lắp ghép",
+      "price": 5400000,
+      "oldPrice": 6200000,
+      "sale": 12,
+      "rating": 5,
+      "featured": true,
+      "imageKey": "model-mecha-robot"
+    },
+    {
+      "name": "Mô Hình Lắp Ghép Nhà Thu Nhỏ DIY Chuẩn Nhật",
+      "slug": "mo-hinh-lap-ghep-nha-thu-nho-diy",
+      "brand": "ROBOTIME",
+      "category": "Mô hình lắp ghép",
+      "price": 650000,
+      "oldPrice": 750000,
+      "sale": 13,
+      "rating": 4.8,
+      "featured": false,
+      "imageKey": "model-architecture"
+    },
+    {
+      "name": "Xe Siêu Xe Diecast 1/18 Italian Sportscar",
+      "slug": "xe-sieu-xe-diecast-1-18",
+      "brand": "AUTOART",
+      "category": "Xe",
+      "price": 4250000,
+      "oldPrice": 4800000,
+      "sale": 11,
+      "rating": 5,
+      "featured": true,
+      "imageKey": "car-diecast-sports"
+    },
+    {
+      "name": "Xe Điều Khiển Từ Xa RC Off-Road 4WD 1/10",
+      "slug": "xe-dieu-khien-tu-xa-rc-off-road",
+      "brand": "TRAXXAS",
+      "category": "Xe",
+      "price": 3890000,
+      "oldPrice": 4500000,
+      "sale": 13,
+      "rating": 4.9,
+      "featured": true,
+      "imageKey": "car-rc-offroad"
+    },
+    {
+      "name": "Bộ Xe Mô Hình Kim Loại 1/64 (Hộp 5 Chiếc)",
+      "slug": "bo-xe-mo-hinh-kim-loai-1-64",
+      "brand": "HOT WHEELS",
+      "category": "Xe",
+      "price": 249000,
+      "oldPrice": 299000,
+      "sale": 16,
+      "rating": 4.8,
+      "featured": false,
+      "imageKey": "car-diecast-sports"
+    },
+    {
+      "name": "Xe Mô Hình Đua F1 Tỷ Lệ 1/24",
+      "slug": "xe-mo-hinh-dua-f1-ty-le-1-24",
+      "brand": "BURAGO",
+      "category": "Xe",
+      "price": 680000,
+      "oldPrice": 790000,
+      "sale": 13,
+      "rating": 4.7,
+      "featured": false,
+      "imageKey": "car-diecast-sports"
+    },
+    {
+      "name": "Xe Cổ Diecast Vintage 1/24 (1967 Mustang)",
+      "slug": "xe-co-diecast-vintage-1-24",
+      "brand": "MAISTO",
+      "category": "Xe",
+      "price": 520000,
+      "rating": 4.8,
+      "featured": false,
+      "oldPrice": null,
+      "sale": null,
+      "imageKey": "car-diecast-sports"
+    },
+    {
+      "name": "Xe RC Tốc Độ Cao Drift 60km/h",
+      "slug": "xe-rc-toc-do-cao-drift",
+      "brand": "WLTOYS",
+      "category": "Xe",
+      "price": 1850000,
+      "oldPrice": 2100000,
+      "sale": 11,
+      "rating": 4.8,
+      "featured": true,
+      "imageKey": "car-rc-offroad"
+    },
+    {
+      "name": "Xe Mô Hình Cảnh Sát Đèn Còi Âm Thanh 1/32",
+      "slug": "xe-mo-hinh-canh-sat-1-32",
+      "brand": "KINSMART",
+      "category": "Xe",
+      "price": 190000,
+      "oldPrice": 230000,
+      "sale": 17,
+      "rating": 4.6,
+      "featured": false,
+      "imageKey": "car-diecast-sports"
+    },
+    {
+      "name": "Xe Mô Phỏng Công Trình Cần Cẩu Kim Loại",
+      "slug": "xe-mo-phong-cong-trinh-can-cau",
+      "brand": "HINAWAN",
+      "category": "Xe",
+      "price": 890000,
+      "oldPrice": 1050000,
+      "sale": 15,
+      "rating": 4.9,
+      "featured": false,
+      "imageKey": "car-rc-offroad"
+    },
+    {
+      "name": "Xe Mô Tô Mô Hình Kawasaki Ninja H2R 1/12",
+      "slug": "xe-mo-to-mo-hinh-kawasaki-h2r",
+      "brand": "MAISTO",
+      "category": "Xe",
+      "price": 450000,
+      "oldPrice": 520000,
+      "sale": 13,
+      "rating": 4.9,
+      "featured": true,
+      "imageKey": "car-diecast-sports"
+    }
+  ]
+}
