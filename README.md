@@ -196,7 +196,7 @@ Kiểm tra phiên bản:
 
 ```bash
 node --version
-pnpm --version
+npm --version
 git --version
 ```
 
@@ -207,7 +207,7 @@ git --version
 Nếu dự án nằm trên Git:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MinWei6926/ToyverseToyStorePage.git
 cd figma-make-app
 ```
 
